@@ -1,0 +1,9 @@
+{
+    "common": [{"to": "/signin", "label": "Sign In", "order": 1}, {"to": "/signup", "label": "Sign Up", "order": 2}],
+    
+    "admin": [{"to": "addproduct", "label": "Add new product", "order": 3}, {"to": "/signout", "label": "Sign out", "order": 100}, 
+    {"to": "/ordersadmin", "label": "All Orders", "order": 1},  {"to": "/goodsadmin", "label": "Goods", "order": 2}],
+    
+    "user": [{"to": "/showcase", "label": "Showcase", "order": 1}, {"to": "/signout", "label": "Sign out", "order": 100}, 
+    {"to": "/ordersUser", "label": "My orders", "order": 4}] 
+}

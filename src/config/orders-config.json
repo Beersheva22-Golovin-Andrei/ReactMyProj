@@ -1,0 +1,7 @@
+{
+    
+    "ordersStages": [
+       "In cart", "Ordered", "In processing", "Delivery", "Completed"]
+
+  
+}
